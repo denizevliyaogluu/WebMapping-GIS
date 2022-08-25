@@ -1,0 +1,140 @@
+*{
+    box-sizing: border-box
+}
+body{
+    margin: 0;
+    padding: 0
+} 
+#button{
+    color:white;
+    text-decoration: double;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #333;
+}
+#button1{
+  color:white;
+  text-decoration: double;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 35px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #333;
+  float: center;
+}
+#button1:hover{
+  background-color:darkgray;
+}
+#button:hover{
+    background-color:darkgray;
+}
+#btnekle{
+-moz-box-shadow: 0px 10px 14px -7px #276873;
+-webkit-box-shadow: 0px 10px 14px -7px #276873;
+box-shadow: 0px 10px 14px -7px #276873;
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #599bb3), color-stop(1, #408c99));
+background:-moz-linear-gradient(top, #599bb3 5%, #408c99 100%);
+background:-webkit-linear-gradient(top, #599bb3 5%, #408c99 100%);
+background:-o-linear-gradient(top, #599bb3 5%, #408c99 100%);
+background:-ms-linear-gradient(top, #599bb3 5%, #408c99 100%);
+background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bb3', endColorstr='#408c99',GradientType=0);
+background-color:#599bb3;
+-moz-border-radius:8px;
+-webkit-border-radius:8px;
+border-radius:8px;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:Arial;
+font-size:20px;
+font-weight:bold;
+padding:13px 32px;
+text-decoration:none;
+text-shadow:0px 1px 0px #3d768a;
+}
+#btnguncelle{
+-moz-box-shadow: 0px 10px 14px -7px #276873;
+-webkit-box-shadow: 0px 10px 14px -7px #276873;
+box-shadow: 0px 10px 14px -7px #276873;
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #fffacd), color-stop(1, #eee8aa));
+background:-moz-linear-gradient(top, #fffacd 5%, #fffacd 100%);
+background:-webkit-linear-gradient(top, #fffacd 5%, #eee8aa 100%);
+background:-o-linear-gradient(top, #fffacd 5%, #eee8aa 100%);
+background:-ms-linear-gradient(top, #fffacd 5%, #eee8aa 100%);
+background:linear-gradient(to bottom, #fffacd 5%, #eee8aa 100%);
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffacd', endColorstr='#eee8aa',GradientType=0);
+background-color:#fffacd;
+-moz-border-radius:8px;
+-webkit-border-radius:8px;
+border-radius:8px;
+display:inline-block;
+cursor:pointer;
+color:#000000;
+font-family:Arial;
+font-size:20px;
+font-weight:bold;
+padding:13px 32px;
+text-decoration:none;
+text-shadow:0px 1px 0px #3d768a;
+}
+#btnsil{
+-moz-box-shadow: 0px 10px 14px -7px #276873;
+-webkit-box-shadow: 0px 10px 14px -7px #276873;
+box-shadow: 0px 10px 14px -7px #276873;
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ff6347), color-stop(1, #ff4500));
+background:-moz-linear-gradient(top, #ff6347 5%, #ff4500 100%);
+background:-webkit-linear-gradient(top, #ff6347 5%, #ff4500 100%);
+background:-o-linear-gradient(top, #ff6347 5%, #ff4500 100%);
+background:-ms-linear-gradient(top, #ff6347 5%, #ff4500 100%);
+background:linear-gradient(to bottom, #ff6347 5%, #ff4500 100%);
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff6347', endColorstr='#ff4500',GradientType=0);
+background-color:#599bb3;
+-moz-border-radius:8px;
+-webkit-border-radius:8px;
+border-radius:8px;
+display:inline-block;
+cursor:pointer;
+color:#000000;
+font-family:Arial;
+font-size:20px;
+font-weight:bold;
+padding:13px 32px;
+text-decoration:none;
+text-shadow:0px 1px 0px #3d768a;
+}
+ .map {
+    height: 1000px;
+    width: 100%;
+} 
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+  /* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+ .feedBack{
+    color: white;
+    position: inherit;
+ }
