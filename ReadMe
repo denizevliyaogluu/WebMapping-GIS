@@ -1,4 +1,1 @@
-Staj.sln dosyası Visual Studio ortamında çalıştırılır. Projenin backend kısmının kodları bu dosyada bulunuyor.
-main.js , index.html , style.css dosyaları Visual Studio Code ortamına çalıştırılır. Projenin frontend kısmının kodları bu dosyada bulunuyor.
 
-Projenin çalışması için PostgreSQL veritabanı bağlantısı yapılmalıdır.
